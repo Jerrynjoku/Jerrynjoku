@@ -1,16 +1,16 @@
-### Hi there 👋
+<!DOCTYPE HTML>
+<html>
 
-<!--
-**Jerrynjoku/Jerrynjoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
 
-Here are some ideas to get you started:
+  <p>Before the script...</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <script>
+    alert( 'Hello, world!' );
+  </script>
+
+  <p>...After the script.</p>
+
+</body>
+
+</html>
